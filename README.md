@@ -83,7 +83,7 @@ We extracted the home team goals and away team goals for each team.We grouped th
 The above table shows what were the position of the countries in the each World cup vs what  was the FIFA rank given to the teams before the matches.
 
 
-
+The above dataframe was connected to postgresql to get the final database
 
 
 
