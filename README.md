@@ -29,11 +29,7 @@ For this we use three csv files.The name of the files are listed below -
 
 ##### DATA CLEANUP AND ANALYSIS
 
-1.![Table showing ](images_etl/winner_img)
-
-
-
-WORLD CUP CSV - The first file is the worldcup csv file used.We extracted the following columns from the csv file -
+1.WORLD CUP CSV - The first file is the worldcup csv file used.We extracted the following columns from the csv file -
 Year
 Country
 Winner
