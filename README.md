@@ -29,7 +29,7 @@ For this we use three csv files.The name of the files are listed below -
 
 ##### DATA CLEANUP AND ANALYSIS
 
-1.WORLD CUP CSV - The first file is the worldcup csv file used.We extracted the following columns from the csv file -
+1.WORLD CUP CSV WITH WINNER POSITIONS- The first file is the worldcup csv file used.We extracted the following columns from the csv file -
 Year
 Country
 Winner
@@ -44,9 +44,10 @@ From this file we extracted the latest 5 event from 1998 to 2014.The reason to d
 ![Table showing the cleaned data for positions in World cup ](images_etl/winner_img.PNG)
 
 
+2.RANK CSV -We used a file which had rank given to ech Country by FIFA.This file was used to extract rank of each country from 1998 to 2014.The rank was then added to the first file with winners position.
 
 
-
+![Table showing the ranks ](images_etl/rank_1.PNG)
 
 
 
