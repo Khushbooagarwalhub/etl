@@ -78,7 +78,7 @@ We extracted the home team goals and away team goals for each team
 
 6.Finally the goals table was merged with the winner table to get the final data
 
-![Table showing the ranks ](images_etl/finalfile_consolidated.PNG)
+![Table showing the ranks ](images_etl/final_all_columns.PNG)
 
 
 
