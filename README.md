@@ -28,7 +28,12 @@ For this we use three csv files.The name of the files are listed below -
 3.wc_rank.csv
 
 ##### DATA CLEANUP AND ANALYSIS
-1.WORLD CUP CSV - The first file is the worldcup csv file used.We extracted the following columns from the csv file -
+
+1.![Table showing ](images_etl/winner_img.png)
+
+
+
+WORLD CUP CSV - The first file is the worldcup csv file used.We extracted the following columns from the csv file -
 Year
 Country
 Winner
@@ -38,6 +43,9 @@ Fourth
 GoalsScored
 
 From this file we extracted the latest 5 event from 1998 to 2014.The reason to do this was that the rank file have 5 events from 1998 to 2014.
+
+
+![Table showing ](link-to-image)
 
 
 
