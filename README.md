@@ -80,7 +80,7 @@ We extracted the home team goals and away team goals for each team.We grouped th
 
 ![Table showing the ranks ](images_etl/final_all_columns.PNG)
 
-The above table shows what were the position of the countries in the each World cup vs ahta was the FIFA rank given to the teams before the matches.
+The above table shows what were the position of the countries in the each World cup vs what  was the FIFA rank given to the teams before the matches.
 
 
 
