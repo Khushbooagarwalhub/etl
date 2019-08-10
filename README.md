@@ -14,5 +14,8 @@ For the ETL project we have used data two different sources
   
 
 #### OBJECTIVE
+The aim of this project was to compare the performance of the Countries in World Cup to the ranks given to them by FIFA.
+For this we use three csv files.The files have been copied here
+
 
 
