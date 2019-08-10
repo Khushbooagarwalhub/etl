@@ -30,7 +30,7 @@ Third
 Fourth
 GoalsScored
 
-
+![Test Image 1](C:\Users\agarw\Desktop\New folder(2)\world_cup_image.png)
 
 
 
