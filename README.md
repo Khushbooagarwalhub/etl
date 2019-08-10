@@ -61,7 +61,7 @@ So we finally got the rank of the top four countries each year.We added a positi
 ![Table showing the ranks ](images_etl/world_cup_whole.PNG)
 
 The above table had many stages of match each year.Our focus was the semifinal and final match as we had the top four positions.We extracted the data for semi final and final match for year 1998 to 2014.
-We extracted the home team goals and away team goals for each team 
+We extracted the home team goals and away team goals for each team.We grouped the data by year and country 
 
 
 ![Table showing the ranks ](images_etl/home_team.PNG)                ![Table showing the ranks ](images_etl/away_team.PNG)          
