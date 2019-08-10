@@ -29,7 +29,7 @@ For this we use three csv files.The name of the files are listed below -
 
 ##### DATA CLEANUP AND ANALYSIS
 
-1.![Table showing ](images_etl/winner_img.png)
+1.![Table showing ](images_etl/winner_img)
 
 
 
