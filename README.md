@@ -2,7 +2,9 @@
 
 ## Final files
 Final pandas file -  rank_fifa-checkpoint_final_081019.ipynb
+
 Final sql file - worldcup.sql
+
 Final queries file - queries.sql
 
 ## INTRODUCTION
