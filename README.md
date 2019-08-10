@@ -13,8 +13,6 @@ For the ETL project we have used data from two different sources
 1.Data.World
 2.Kaggel
        link given here  https://www.kaggle.com/abecklas/fifa-world-cup/version/5#
-       
-       
                         https://data.world/jackspades42/worldcuprank/workspace/file?filename=wc_rank.csv#
   
   We got two csv files from kaggle and one csv file from Data.world
