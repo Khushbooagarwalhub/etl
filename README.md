@@ -30,17 +30,8 @@ Third
 Fourth
 GoalsScored
 
-![Test Image 1](C:\Users\agarw\Desktop\New folder(2)\world_cup_image.png)
-
-
-
-
-
-
-
-
-
 From this file we extracted the latest 5 event from 1998 to 2014.The reason to do this was that the rank file have 5 events from 1998 to 2014.
+
 
 
 
