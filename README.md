@@ -67,6 +67,11 @@ We extracted the home team goals and away team goals for each team
                                                               
 
 
+5.The next step was to concatenate the Home team table with Away team table to calculate the total goals of each Country every worldcup.
+  The columns were renamed in the concatenated table 
+  
+![Table showing the ranks ](images_etl/concat_file.PNG)
+
 
 
 
