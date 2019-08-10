@@ -49,6 +49,12 @@ From this file we extracted the latest 5 event from 1998 to 2014.The reason to d
 
 ![Table showing the ranks ](images_etl/rank_1.PNG)
 
+3.We made a new table using the above two table.The format of the first table to changed and rank added to it using for loop in pandas.
+So we finally got the rank of the top four countries each year.
+
+![Table showing the ranks ](images_etl/finalfile_consolidated.PNG)
+
+
 
 
 
