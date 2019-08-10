@@ -54,6 +54,9 @@ So we finally got the rank of the top four countries each year.
 
 ![Table showing the ranks ](images_etl/finalfile_consolidated.PNG)
 
+4.We also wanted to find out the goals scored by each country each year.So we used another csv file .The file has been shown below
+
+![Table showing the ranks ](images_etl/![Table showing the ranks ](images_etl/finalfile_consolidated.PNG)
 
 
 
